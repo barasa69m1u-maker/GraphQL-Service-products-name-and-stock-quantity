@@ -1,0 +1,24 @@
+{
+  "name": "graphql-service-products-stock",
+  "version": "1.0.0",
+  "description": "Tiny GraphQL service that can return a product's name and stock quantity",
+  "homepage": "https://github.com/barasa69m1u-maker/GraphQL-Service-products-name-and-stock-quantity#readme",
+  "bugs": {
+    "url": "https://github.com/barasa69m1u-maker/GraphQL-Service-products-name-and-stock-quantity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barasa69m1u-maker/GraphQL-Service-products-name-and-stock-quantity.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "graphql": "^16.11.0"
+  }
+}
